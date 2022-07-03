@@ -1,8 +1,8 @@
 # Week 1 - Induction
 
-[Back to Main Menu](/README.md)
+[Back](/README.md)
 
-## Description
+## Contents
 
 [Day 1 - ](Day_1/README.md)
 
