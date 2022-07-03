@@ -11,26 +11,27 @@ Date: 6/29
 ## MarkDown
 - Aaron Swartz
 
-Commands | Description
-- |
-#, ##, ### … | title, sub-title, sub-sub-title ...
-\* … * | italic
-** … ** | bold
-*** … *** | italic + bold
-\>, >>, >>>, … | reply
-\[…](https://...) | hyperlink
-\!\[…](https://…) | attach image
-\!\[…](.\Example.jpg) | attach local image
-\[…](#…-…-…) | link to header (kebab case)
-\- … | bullet points
-\- [ ] … | tick box
-\- [x] … | 
-\``` | code block
-\```csharp | specify language 
-\``` | 
-\`…` | highlight
-… \| … \| … | table
-\- \| | bold table headers
+| Commands | Description |
+| - | - |
+| #, ##, ### … | title, sub-title, sub-sub-title ... |
+| \* … * | italic |
+| ** … ** | bold |
+| *** … *** | italic + bold |
+| \>, >>, >>>, … | reply |
+| \[…](https://...) | hyperlink |
+| \!\[…](https://…) | attach image |
+| \!\[…](.\Example.jpg) | attach local image |
+| \[…](#…-…-…) | link to header (kebab case) |
+| \- … | bullet points |
+| \- [ ] … | tick box |
+| \- [x] … |  |
+| \``` | code block |
+| \```csharp | specify language  |
+| \``` |  |
+| \`…` | highlight |
+| … \| … \| … | table |
+| \- \| | bold table headers |
+
 
 ## Mermaid
 
