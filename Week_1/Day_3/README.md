@@ -27,23 +27,23 @@ Date: 6/29
 | \- [x] … |  |
 | \``` | code block |
 | \```csharp | specify language  |
-| \``` |  |
 | \`…` | highlight |
-| … \| … \| … | table |
-| \- \| | bold table headers |
+| \| … \| … \| … \| | table |
+| \| - \| - \| - \| | table headers |
 
 
 ## Mermaid
 
-Command | Description
--|
-flowchart LR | flow chart
-a[start] -->\|to\| b(finish) | flow chart:  pointers
-b --> c{decision} | flow chart:  pointers
-statediagram | state diagram
-[*] --> HomePage | state diagram:  pointers
-pie | pie chart
-"Python": 1 | pie chart: attributes
+| Command | Description |
+| - | - |
+| flowchart LR | flow chart |
+| a[start] -->\|to\| b(finish) | flow chart:  pointers |
+| b --> c{decision} | flow chart:  pointers |
+| statediagram | state diagram |
+| [*] --> HomePage | state diagram:  pointers |
+| pie | pie chart |
+| Python: 1 | pie chart: attributes |
+
 
 ## Shells and scripting
 
@@ -58,49 +58,50 @@ Windows PowerShell vs command prompt
 
 ### PowerShell
 
-Command | Description
--|
-ls | list files
-ls - R | list files, recursive, list what's within the folders as well
-dir | directory
-history | history
-cd \ | top of tree folder
-cd .. | change directory, go back one directory
-cd desktop | change directory, within folder
-cd "C:\Users\user" | 
-cd ~ | home
-mkdir newpath | make directory
-md newpath | 
-notepad TestFile.txt | open file with notepad
-cat testfile.txt | concatonate and print content
-gc testfile.txt | get content
-cp testfile.txt subfolder | copy
-mv testfile.txt hello.txt | move or rename file
-rm testfile.txt | remove
-del testfile.txt | delete
-help ls | 
-ctr + c | get out
-get-alias | 
-get-command | 
-new-item myFile.txt | create a new file
-echo "hi" | print string
-echo "Nish" >> myFile.txt | append new lines to file; if file doesn't exist, it will be created
-echo "Nish" > myFile.txt | overwrite
+| Command | Description |
+| - | - |
+| ls | list files |
+| ls - R | list files, recursive, list what's within the folders as well |
+| dir | directory |
+| history | history |
+| cd \ | top of tree folder |
+| cd .. | change directory, go back one directory |
+| cd desktop | change directory, within folder |
+| cd "C:\Users\user" |  |
+| cd ~ | home |
+| mkdir newpath | make directory |
+| md newpath |  |
+| notepad TestFile.txt | open file with notepad |
+| cat testfile.txt | concatonate and print content |
+| gc testfile.txt | get content |
+| cp testfile.txt subfolder | copy |
+| mv testfile.txt hello.txt | move or rename file |
+| rm testfile.txt | remove |
+| del testfile.txt | delete |
+| help ls |  |
+| ctr + c | get out |
+| get-alias |  |
+| get-command |  |
+| new-item myFile.txt | create a new file |
+| echo "hi" | print string |
+| echo "Nish" >> myFile.txt | append new lines to file; if file doesn't exist, it will be created |
+| echo "Nish" > myFile.txt | overwrite |
+
 
 ### PowerShell ISE (integrated scripting environment)
 
-Command | Description
--|
-get-command * > PowerShell-commands.txt | 
-get-command \*dns* \| Out-GridView | dns = Domain Name System
-get-process | 
-get-process \| select name,cpu \|sort cpu \| out-gridview | \| to separate the commands
+| Command | Description |
+| - | - |
+| get-command * > PowerShell-commands.txt |  |
+| get-command \*dns* \| Out-GridView | dns = Domain Name System |
+| get-process |  |
+| get-process \| select name,cpu \|sort cpu \| out-gridview | \| to separate the commands |
 
 #### Batch file
 
-Command | Description
--|
-notepad PowerShellScript.ps1 | open PowerShellScript.ps1 in notepad
+| Command | Description |
+| - | - |
+| notepad PowerShellScript.ps1 | open PowerShellScript.ps1 in notepad |
 
 ```powershell
 echo "This is a hello world batch file"
@@ -126,38 +127,38 @@ cd ..
 
 #### Execution policy
 
-Command | Description
--|
-./PowerShellScript.ps1 | run script
-get-ExcecutionPolicy | 
-set-ExecutionPolicy -scope process -executionPolicy unrestricted | 
-set-ExecutionPolicy -scope process -executionPolicy allsigned | 
+| Command | Description |
+| - | - |
+| ./PowerShellScript.ps1 | run script |
+| get-ExcecutionPolicy |  |
+| set-ExecutionPolicy -scope process -executionPolicy unrestricted |  |
+| set-ExecutionPolicy -scope process -executionPolicy allsigned |  |
 
 ## Git Hub
 
 gitignore,Tortoise Git
 
 ### To add, commit, and push changes
-Command | Description
-- | 
-git clone https://github.com/nishman89/Engineering120 | 
-git status | 
-git add readme.md | 
-git add . | 1. add files to your local repository and stage it for commit
-git commit --m "Updated README.md file" | 1. commit tracked changes and prepare them to be pushed to remote repository
-git status | origin/main = remote repository
-git push | 1. push tracked changes to remote repository
+| Command | Description |
+| - | - |
+| git clone https://github.com/nishman89/Engineering120 |  |
+| git status |  |
+| git add readme.md |  |
+| git add . | 1. add files to your local repository and stage it for commit |
+| git commit --m "Updated README.md file" | 1. commit tracked changes and prepare them to be pushed to remote repository |
+| git status | origin/main = remote repository |
+| git push | 1. push tracked changes to remote repository |
 
 ### To unstage and uncommit changes
-Command | Description
-- | 
-git log | show history of commits
-git log --pretty=oneline | condensed log, check commit IDs
-git diff commit_ID1 commit_ID2 | show difference between commits
-git reset HEAD | unadd and unstage tracked changes
-git reset --soft commit_ID | uncommit back to commit_ID, local files not changed
-git reset --hard commit_ID | uncommit back to commit_ID, change local files
-cat readme.md | concatonate
+| Command | Description |
+| - | - |
+| git log | show history of commits |
+| git log --pretty=oneline | condensed log, check commit IDs |
+| git diff commit_ID1 commit_ID2 | show difference between commits |
+| git reset HEAD | unadd and unstage tracked changes |
+| git reset --soft commit_ID | uncommit back to commit_ID, local files not changed |
+| git reset --hard commit_ID | uncommit back to commit_ID, change local files |
+| cat readme.md | concatonate |
 
 ![pic2](pic2.png)
 
@@ -168,16 +169,15 @@ cat readme.md | concatonate
 Tag
 - a completed stage of the project ready to be downloaded
 
-Command | Description
-- | 
-git add . | 
-git commit --m "Updated readme" | 
-git tag -a 1.0.1 -m "Chorus is complete" | 
-git tag -d 1.0.1 | delete tag
-git log --pretty=oneline | tag is shown
-git push origin --tags | origin:  online repository
-git tag | show version
-
+| Command | Description |
+| - | - |
+| git add . |  |
+| git commit --m "Updated readme" |  |
+| git tag -a 1.0.1 -m "Chorus is complete" |  |
+| git tag -d 1.0.1 | delete tag |
+| git log --pretty=oneline | tag is shown |
+| git push origin --tags | origin:  online repository |
+| git tag | show version |
 
 ## C# and .NET
 
