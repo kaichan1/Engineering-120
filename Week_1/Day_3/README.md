@@ -190,23 +190,22 @@ Tag
 
 ### Timeline
 
-Year | Event
--|
-1972 | C
-1979 | "C with classes"
-1985 | “The C++ Programming Language" published
-1995 | Java 1.0 - memory management, JVM
-1999 | Microsoft started developing "Cool" - C like Object Oriented Language
-2002 | C# 1.0 with .NET framework 1.0 and Visual Studio .NET 2002 – similar to Java
-2007 | C# 3.0 -  new features including LINQ
-2012 | C# 5.0 - asynchronous programming support
-2014 | .NET Core announced - cross-platform
-2016 | .NET Core 1.0
-2017 | .NET Core 2.0
-2019 | .NET Core 3
-2020 | .NET 5.0 and C# 9.0
-2021 | .NET 6.0 and C# 10.0
-
+| Year | Event |
+| - | - |
+| 1972 | C |
+| 1979 | "C with classes" |
+| 1985 | “The C++ Programming Language" published |
+| 1995 | Java 1.0 - memory management, JVM |
+| 1999 | Microsoft started developing "Cool" - C like Object Oriented Language |
+| 2002 | C# 1.0 with .NET framework 1.0 and Visual Studio .NET 2002 – similar to Java |
+| 2007 | C# 3.0 -  new features including LINQ |
+| 2012 | C# 5.0 - asynchronous programming support |
+| 2014 | .NET Core announced - cross-platform |
+| 2016 | .NET Core 1.0 |
+| 2017 | .NET Core 2.0 |
+| 2019 | .NET Core 3 |
+| 2020 | .NET 5.0 and C# 9.0 |
+| 2021 | .NET 6.0 and C# 10.0 |
 
 ![pic3](pic3.png)
 ![pic4](pic4.png)
