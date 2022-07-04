@@ -1,8 +1,15 @@
-# Week 1 - Induction - Day 1
+# Week 2 - C# Basics - Day 1
 
-[Back](/Week_1)
+[Back](/Week_2)
 
 [Main Menu](/README.md)
 
-## Contents
+---
+Date: 7/4
+
+## Unit Testing & Refractoring
+
+
+
+## Test-First Development
 

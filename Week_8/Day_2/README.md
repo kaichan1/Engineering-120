@@ -1,8 +1,11 @@
-# Week 1 - Induction - Day 1
+# Week 1 - ? - Day ?
 
 [Back](/Week_1)
 
 [Main Menu](/README.md)
+
+---
+Date: 7/?
 
 ## Contents
 

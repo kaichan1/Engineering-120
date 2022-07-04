@@ -1,0 +1,12 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_1\TestFirstExercises\02b_TestFirstExercises\TestFirstExercises_Lib\bin\Debug\net6.0\TestFirstExercises_Lib.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_1\TestFirstExercises\02b_TestFirstExercises\TestFirstExercises_Lib\bin\Debug\net6.0\TestFirstExercises_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_1\TestFirstExercises\02b_TestFirstExercises\TestFirstExercises_Lib\bin\Debug\net6.0\TestFirstExercises_Lib.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_1\TestFirstExercises\02b_TestFirstExercises\TestFirstExercises_Lib\obj\Debug\net6.0\TestFirstExercises_Lib.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_1\TestFirstExercises\02b_TestFirstExercises\TestFirstExercises_Lib\obj\Debug\net6.0\TestFirstExercises_Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_1\TestFirstExercises\02b_TestFirstExercises\TestFirstExercises_Lib\obj\Debug\net6.0\TestFirstExercises_Lib.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_1\TestFirstExercises\02b_TestFirstExercises\TestFirstExercises_Lib\obj\Debug\net6.0\TestFirstExercises_Lib.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_1\TestFirstExercises\02b_TestFirstExercises\TestFirstExercises_Lib\obj\Debug\net6.0\TestFirstExercises_Lib.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_1\TestFirstExercises\02b_TestFirstExercises\TestFirstExercises_Lib\obj\Debug\net6.0\TestFirstExercises_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_1\TestFirstExercises\02b_TestFirstExercises\TestFirstExercises_Lib\obj\Debug\net6.0\refint\TestFirstExercises_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_1\TestFirstExercises\02b_TestFirstExercises\TestFirstExercises_Lib\obj\Debug\net6.0\TestFirstExercises_Lib.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_1\TestFirstExercises\02b_TestFirstExercises\TestFirstExercises_Lib\obj\Debug\net6.0\ref\TestFirstExercises_Lib.dll

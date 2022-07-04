@@ -1,0 +1,15 @@
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\bin\Debug\net6.0\CSharpIntroduction.exe
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\bin\Debug\net6.0\CSharpIntroduction.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\bin\Debug\net6.0\CSharpIntroduction.runtimeconfig.json
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\bin\Debug\net6.0\CSharpIntroduction.dll
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\bin\Debug\net6.0\CSharpIntroduction.pdb
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\obj\Debug\net6.0\CSharpIntroduction.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\obj\Debug\net6.0\CSharpIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\obj\Debug\net6.0\CSharpIntroduction.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\obj\Debug\net6.0\CSharpIntroduction.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\obj\Debug\net6.0\CSharpIntroduction.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\obj\Debug\net6.0\CSharpIntroduction.dll
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\obj\Debug\net6.0\refint\CSharpIntroduction.dll
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\obj\Debug\net6.0\CSharpIntroduction.pdb
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\obj\Debug\net6.0\CSharpIntroduction.genruntimeconfig.cache
+D:\OneDrive\Data\Career\Sparta Global\Files\CSharpIntroduction\CSharpIntroduction\obj\Debug\net6.0\ref\CSharpIntroduction.dll

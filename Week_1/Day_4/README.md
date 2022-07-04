@@ -64,7 +64,7 @@ namespace CSharpIntroduction
 | cw tab tab | Console.WriteLine() |
 | static | static across all instances of a type |
 | void | no output |
-| namespace | a space that contains all classes and methods |
+| namespace | a library that contains all classes and methods |
 | System.Console.WriteLine() | namespace . class . method |
 
 ```csharp
