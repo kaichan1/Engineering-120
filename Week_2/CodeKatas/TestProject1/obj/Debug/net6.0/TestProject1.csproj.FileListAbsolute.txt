@@ -1,0 +1,6 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\TestProject1\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\TestProject1\obj\Debug\net6.0\TestProject1.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\TestProject1\obj\Debug\net6.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CoreCompileInputs.cache

@@ -2,9 +2,13 @@
 {
     public class Class1
     {
-        public static int DuplicateChar(string word)
+        public static Array DuplicateChar(string word)
         {
-            System.Collections.Generic.Dictionary<string, int> dic = new System.Collections.Generic.Dictionary<string, int>();
+            System.Collections.Generic.Dictionary<char, int> dic = new System.Collections.Generic.Dictionary<char, int>();
+            foreach (char c in word)
+            {
+                dic[c] = dic.TryGetValue(c, out int 0) + 1;
+            }
         }
 
         public static int Factorial(int num)
@@ -17,13 +21,17 @@
             return product;
         }
 
-        public static int Pallindrome(string word)
+        public static bool Pallindrome(string word)
         {
-            for (int i = word.Length / 2; i > 0; i--)
+            int len = word.Length;
+            for (int i = 0; i <= len/2; i++)
             {
-
+                if (word[i] != word[len - 1 - i])
+                {
+                    return false;
+                }
             }
-            return 0;
+            return true;
         }
     }
 }

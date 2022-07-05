@@ -1,0 +1,5 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.csproj.CoreCompileInputs.cache

@@ -38,5 +38,62 @@ namespace Op_CtrlFlow_Tests
             var result = Exercises.TicketType(age);
             Assert.That(result, Is.EqualTo(expected));
         }
+
+        #region Grade Tests
+        [TestCase(100)]
+        [TestCase(75)]
+        public void GivenMark75to100_Grade_ReturnsPassWithDistinction(int mark)
+        {
+            Assert.That(Exercises.Grade(mark), Is.EqualTo("Pass with Distinction"));
+        }
+
+        [TestCase(74)]
+        [TestCase(60)]
+        public void GivenMark60to74_Grade_ReturnsPassWithMerit(int mark)
+        {
+            Assert.That(Exercises.Grade(mark), Is.EqualTo("Pass with Merit"));
+        }
+
+        [TestCase(59)]
+        [TestCase(40)]
+        public void GivenMark40to59_Grade_ReturnsPass(int mark)
+        {
+            Assert.That(Exercises.Grade(mark), Is.EqualTo("Pass"));
+        }
+
+        [TestCase(39)]
+        [TestCase(0)]
+        public void GivenMark0to39_Grade_ReturnsFail(int mark)
+        {
+            Assert.That(Exercises.Grade(mark), Is.EqualTo("Fail"));
+        }
+        #endregion
+        
+        #region Wedding Number Tests
+        [TestCase(4)]
+        public void GivenCovidLevelIs4_GetScottishMaxWeddingNumbers_Returns20(int covidlevel)
+        {
+            Assert.That(Exercises.GetScottishMaxWeddingNumbers(covidlevel), Is.EqualTo(20));
+        }
+
+        [TestCase(3)]
+        [TestCase(2)]
+        public void GivenCovidLevelIs3or2_GetScottishMaxWeddingNumbers_Returns50(int covidlevel)
+        {
+            Assert.That(Exercises.GetScottishMaxWeddingNumbers(covidlevel), Is.EqualTo(50));
+        }
+
+        [TestCase(1)]
+        public void GivenCovidLevelIs1_GetScottishMaxWeddingNumbers_Returns100(int covidlevel)
+        {
+            Assert.That(Exercises.GetScottishMaxWeddingNumbers(covidlevel), Is.EqualTo(100));
+        }
+
+        [TestCase(0)]
+        public void GivenCovidLevelIs0_GetScottishMaxWeddingNumbers_Returns200(int covidlevel)
+        {
+            Assert.That(Exercises.GetScottishMaxWeddingNumbers(covidlevel), Is.EqualTo(200));
+        }
+        #endregion
     }
 }
