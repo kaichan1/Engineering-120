@@ -5,6 +5,13 @@ namespace UnitTests
     public class Tests
     {
 
+        [TestCase(-1)]
+        [TestCase(25)]
+        public void GivenInvalidTime_Greeting_ReturnsArgumentOutOfRangeException(int time)
+        {
+            Assert.That(() => Program.Greeting(time), Throws.TypeOf<ArgumentOutOfRangeException>());
+        }
+
         [Test]
         public void GivenATimeOf21_Greeting_ReturnsGoodEvening()
         {
@@ -62,6 +69,5 @@ namespace UnitTests
         {
             Assert.That(Program.Greeting(time), Is.EqualTo(str));
         }
-
     }
 }

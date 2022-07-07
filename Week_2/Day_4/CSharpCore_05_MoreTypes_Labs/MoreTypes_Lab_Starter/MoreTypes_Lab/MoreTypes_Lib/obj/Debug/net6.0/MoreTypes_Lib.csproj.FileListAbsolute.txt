@@ -1,0 +1,12 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\CSharpCore_05_MoreTypes_Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\bin\Debug\net6.0\MoreTypes_Lib.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\CSharpCore_05_MoreTypes_Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\bin\Debug\net6.0\MoreTypes_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\CSharpCore_05_MoreTypes_Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\bin\Debug\net6.0\MoreTypes_Lib.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\CSharpCore_05_MoreTypes_Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net6.0\MoreTypes_Lib.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\CSharpCore_05_MoreTypes_Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net6.0\MoreTypes_Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\CSharpCore_05_MoreTypes_Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net6.0\MoreTypes_Lib.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\CSharpCore_05_MoreTypes_Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net6.0\MoreTypes_Lib.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\CSharpCore_05_MoreTypes_Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net6.0\MoreTypes_Lib.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\CSharpCore_05_MoreTypes_Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net6.0\MoreTypes_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\CSharpCore_05_MoreTypes_Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net6.0\refint\MoreTypes_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\CSharpCore_05_MoreTypes_Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net6.0\MoreTypes_Lib.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\CSharpCore_05_MoreTypes_Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net6.0\ref\MoreTypes_Lib.dll

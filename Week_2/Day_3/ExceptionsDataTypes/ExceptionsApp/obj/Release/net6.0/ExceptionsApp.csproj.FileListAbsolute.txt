@@ -1,0 +1,15 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\bin\Release\net6.0\ExceptionsApp.exe
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\bin\Release\net6.0\ExceptionsApp.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\bin\Release\net6.0\ExceptionsApp.runtimeconfig.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\bin\Release\net6.0\ExceptionsApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\bin\Release\net6.0\ExceptionsApp.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\obj\Release\net6.0\ExceptionsApp.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\obj\Release\net6.0\ExceptionsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\obj\Release\net6.0\ExceptionsApp.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\obj\Release\net6.0\ExceptionsApp.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\obj\Release\net6.0\ExceptionsApp.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\obj\Release\net6.0\ExceptionsApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\obj\Release\net6.0\refint\ExceptionsApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\obj\Release\net6.0\ExceptionsApp.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\obj\Release\net6.0\ExceptionsApp.genruntimeconfig.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_3\ExceptionsDataTypes\ExceptionsApp\obj\Release\net6.0\ref\ExceptionsApp.dll

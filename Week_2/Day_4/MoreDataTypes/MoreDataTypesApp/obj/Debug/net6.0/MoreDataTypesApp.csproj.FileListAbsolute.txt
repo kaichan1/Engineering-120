@@ -1,0 +1,15 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\bin\Debug\net6.0\MoreDataTypesApp.exe
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\bin\Debug\net6.0\MoreDataTypesApp.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\bin\Debug\net6.0\MoreDataTypesApp.runtimeconfig.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\bin\Debug\net6.0\MoreDataTypesApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\bin\Debug\net6.0\MoreDataTypesApp.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\obj\Debug\net6.0\MoreDataTypesApp.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\obj\Debug\net6.0\MoreDataTypesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\obj\Debug\net6.0\MoreDataTypesApp.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\obj\Debug\net6.0\MoreDataTypesApp.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\obj\Debug\net6.0\MoreDataTypesApp.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\obj\Debug\net6.0\MoreDataTypesApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\obj\Debug\net6.0\refint\MoreDataTypesApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\obj\Debug\net6.0\MoreDataTypesApp.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\obj\Debug\net6.0\MoreDataTypesApp.genruntimeconfig.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_4\MoreDataTypes\MoreDataTypesApp\obj\Debug\net6.0\ref\MoreDataTypesApp.dll
