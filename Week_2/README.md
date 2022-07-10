@@ -12,4 +12,4 @@
 
 [Day 4 - Strings, Arrays & Date time](Day_4/README.md)
 
-[Day 5](Day_5/README.md)
+[Day 5 - Enum, Methods & Memory Model](Day_5/README.md)

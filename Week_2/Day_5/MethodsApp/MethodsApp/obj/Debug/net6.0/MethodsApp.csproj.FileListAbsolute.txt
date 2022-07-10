@@ -1,0 +1,15 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\bin\Debug\net6.0\MethodsApp.exe
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\bin\Debug\net6.0\MethodsApp.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\bin\Debug\net6.0\MethodsApp.runtimeconfig.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\bin\Debug\net6.0\MethodsApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\bin\Debug\net6.0\MethodsApp.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\obj\Debug\net6.0\MethodsApp.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\obj\Debug\net6.0\MethodsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\obj\Debug\net6.0\MethodsApp.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\obj\Debug\net6.0\MethodsApp.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\obj\Debug\net6.0\MethodsApp.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\obj\Debug\net6.0\MethodsApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\obj\Debug\net6.0\refint\MethodsApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\obj\Debug\net6.0\MethodsApp.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\obj\Debug\net6.0\MethodsApp.genruntimeconfig.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Day_5\MethodsApp\MethodsApp\obj\Debug\net6.0\ref\MethodsApp.dll

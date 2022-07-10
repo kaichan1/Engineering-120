@@ -1,0 +1,12 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Methods_Labs\Labs\Methods_Lab_Starter\Methods_Lib\bin\Debug\net6.0\Methods_Lib.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Methods_Labs\Labs\Methods_Lab_Starter\Methods_Lib\bin\Debug\net6.0\Methods_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Methods_Labs\Labs\Methods_Lab_Starter\Methods_Lib\bin\Debug\net6.0\Methods_Lib.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Methods_Labs\Labs\Methods_Lab_Starter\Methods_Lib\obj\Debug\net6.0\Methods_Lib.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Methods_Labs\Labs\Methods_Lab_Starter\Methods_Lib\obj\Debug\net6.0\Methods_Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Methods_Labs\Labs\Methods_Lab_Starter\Methods_Lib\obj\Debug\net6.0\Methods_Lib.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Methods_Labs\Labs\Methods_Lab_Starter\Methods_Lib\obj\Debug\net6.0\Methods_Lib.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Methods_Labs\Labs\Methods_Lab_Starter\Methods_Lib\obj\Debug\net6.0\Methods_Lib.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Methods_Labs\Labs\Methods_Lab_Starter\Methods_Lib\obj\Debug\net6.0\Methods_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Methods_Labs\Labs\Methods_Lab_Starter\Methods_Lib\obj\Debug\net6.0\refint\Methods_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Methods_Labs\Labs\Methods_Lab_Starter\Methods_Lib\obj\Debug\net6.0\Methods_Lib.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\Methods_Labs\Labs\Methods_Lab_Starter\Methods_Lib\obj\Debug\net6.0\ref\Methods_Lib.dll

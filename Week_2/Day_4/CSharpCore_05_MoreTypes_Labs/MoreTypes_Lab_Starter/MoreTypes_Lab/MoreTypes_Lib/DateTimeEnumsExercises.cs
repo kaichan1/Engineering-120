@@ -35,12 +35,18 @@ namespace MoreTypes_Lib
         // see unit tests for requirements
         public static string Fortune(Suit suit)
         {
-            enum Suit
+            switch (suit)
             {
-                CLUBS = "And the seventh rule is if this is your first night at fight club, you have to fight.",
-                DIAMONDS = "Diamonds are a girls best friend",
-                HEARTS = "You've broken my heart",
-                SPADES = "Bucket and spade"
+                case Suit.CLUBS:
+                    return "And the seventh rule is if this is your first night at fight club, you have to fight.";    
+                case Suit.DIAMONDS:
+                    return "Diamonds are a girls best friend";
+                case Suit.HEARTS:
+                    return "You've broken my heart";   
+                case Suit.SPADES:
+                    return "Bucket and spade";
+                default:
+                    return "";
             }
         }
     }
