@@ -44,9 +44,9 @@ Add a class `Person`
 
 Properties and fields above constructer always
 
-Command | Description
-|
-ctor tab tab | create constructer
+| Command | Description |
+| - | - |
+| ctor tab tab | create constructer |
 
 
 ### [Fields](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/fields) and [properties](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties)
@@ -78,7 +78,7 @@ static void Main(string[] args)
 }
 ```
 
-new	calls the constructor
+`new` calls the constructor
 
 ### Constructor
 Allocates memory on the heap
@@ -166,10 +166,12 @@ public string GetFullName()
 >> Quick actions and refractorings
 >>> Replace `GetFullName` with property
 
- | 
- | 
-two fields | only get a getter, because you can't set two values at once
-one field | get both setter and getter
+
+|  |  |
+| - | - |
+| two fields | only get a getter, because you can't set two values at once |
+| one field | get both setter and getter |
+
 
 
 
@@ -304,7 +306,9 @@ An instance of a struct can be created with or without `new`, whereas that of a 
         }
 ```
 pt.x = 3
+
 p.Age = 100
+
 Struct is a value type, which is stored on stack
 
 

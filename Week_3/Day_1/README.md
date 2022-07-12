@@ -9,11 +9,11 @@ Date: 7/11
 
 ## Coding Test and Review
 
-Command | Description
-|
-int[] myArray = new int[]{}; | an empty array is stored on the heap
-int[] myArray; | a null array is created; nothing stored on the heap
-myArray == null; | testing if the array is null
+| Command | Description |
+| | |
+| int[] myArray = new int[]{}; | an empty array is stored on the heap |
+| int[] myArray; | a null array is created; nothing stored on the heap |
+| myArray == null; | testing if the array is null |
 
 ## 4 Pillars of OOP
 
