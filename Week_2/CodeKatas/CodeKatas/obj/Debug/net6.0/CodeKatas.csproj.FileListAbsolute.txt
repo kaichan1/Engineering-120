@@ -3,3 +3,10 @@ D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas
 D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.AssemblyInfoInputs.cache
 D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.AssemblyInfo.cs
 D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\bin\Debug\net6.0\CodeKatas.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\bin\Debug\net6.0\CodeKatas.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\bin\Debug\net6.0\CodeKatas.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\obj\Debug\net6.0\refint\CodeKatas.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_2\CodeKatas\CodeKatas\obj\Debug\net6.0\ref\CodeKatas.dll

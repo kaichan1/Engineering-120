@@ -1,0 +1,15 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\obj\Debug\net6.0\SafariParkApp.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\obj\Debug\net6.0\SafariParkApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\obj\Debug\net6.0\SafariParkApp.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\obj\Debug\net6.0\SafariParkApp.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\obj\Debug\net6.0\SafariParkApp.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\bin\Debug\net6.0\SafariParkApp.exe
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\bin\Debug\net6.0\SafariParkApp.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\bin\Debug\net6.0\SafariParkApp.runtimeconfig.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\bin\Debug\net6.0\SafariParkApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\bin\Debug\net6.0\SafariParkApp.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\obj\Debug\net6.0\SafariParkApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\obj\Debug\net6.0\refint\SafariParkApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\obj\Debug\net6.0\SafariParkApp.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\obj\Debug\net6.0\SafariParkApp.genruntimeconfig.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_2\SafariPark\SafariParkApp\obj\Debug\net6.0\ref\SafariParkApp.dll
