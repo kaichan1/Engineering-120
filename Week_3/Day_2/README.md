@@ -49,19 +49,26 @@ Properties and fields above constructer always
 | ctor tab tab | create constructer |
 
 
-### [Fields](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/fields) and [properties](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties)
+### [Fields](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/fields) 
 A **field** is a variable of any type that is declared directly in a class or struct. 
 - usually set to private to prevent data corruption
 - set to public:  `public string _firstName;`
-
-A **property** is a member that provides a flexible mechanism to read, write, or compute the value of a private field.
-
 
 ```csharp
 public class Person
 {
 	private string _firstName;
 	private string _lastName;
+}
+```
+
+### [Properties](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties)
+A **property** is a member that provides a flexible mechanism to read, write, or compute the value of a private field.
+A property definition contains declarations for a get and set accessor that retrieves and assigns the value of that property
+
+```csharp
+public class Person
+{
 	public int Age { get; set; };
 }
 ```

@@ -1,0 +1,15 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\obj\Debug\net6.0\ComparingObjects.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\obj\Debug\net6.0\ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\obj\Debug\net6.0\ComparingObjects.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\bin\Debug\net6.0\ComparingObjects.exe
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\bin\Debug\net6.0\ComparingObjects.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\bin\Debug\net6.0\ComparingObjects.runtimeconfig.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\bin\Debug\net6.0\ComparingObjects.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\bin\Debug\net6.0\ComparingObjects.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\obj\Debug\net6.0\ComparingObjects.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\obj\Debug\net6.0\refint\ComparingObjects.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\obj\Debug\net6.0\ComparingObjects.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\obj\Debug\net6.0\ComparingObjects.genruntimeconfig.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\ComparingObjects\ComparingObjects\obj\Debug\net6.0\ref\ComparingObjects.dll

@@ -1,0 +1,12 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\Collections_Lab\Labs\Collections_Lab_Starter\Collections_Lab\Collections_Lib\bin\Debug\net6.0\Collections_Lib.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\Collections_Lab\Labs\Collections_Lab_Starter\Collections_Lab\Collections_Lib\bin\Debug\net6.0\Collections_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\Collections_Lab\Labs\Collections_Lab_Starter\Collections_Lab\Collections_Lib\bin\Debug\net6.0\Collections_Lib.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\Collections_Lab\Labs\Collections_Lab_Starter\Collections_Lab\Collections_Lib\obj\Debug\net6.0\Collections_Lib.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\Collections_Lab\Labs\Collections_Lab_Starter\Collections_Lab\Collections_Lib\obj\Debug\net6.0\Collections_Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\Collections_Lab\Labs\Collections_Lab_Starter\Collections_Lab\Collections_Lib\obj\Debug\net6.0\Collections_Lib.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\Collections_Lab\Labs\Collections_Lab_Starter\Collections_Lab\Collections_Lib\obj\Debug\net6.0\Collections_Lib.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\Collections_Lab\Labs\Collections_Lab_Starter\Collections_Lab\Collections_Lib\obj\Debug\net6.0\Collections_Lib.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\Collections_Lab\Labs\Collections_Lab_Starter\Collections_Lab\Collections_Lib\obj\Debug\net6.0\Collections_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\Collections_Lab\Labs\Collections_Lab_Starter\Collections_Lab\Collections_Lib\obj\Debug\net6.0\refint\Collections_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\Collections_Lab\Labs\Collections_Lab_Starter\Collections_Lab\Collections_Lib\obj\Debug\net6.0\Collections_Lib.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_3\Day_4\Collections_Lab\Labs\Collections_Lab_Starter\Collections_Lab\Collections_Lib\obj\Debug\net6.0\ref\Collections_Lib.dll
