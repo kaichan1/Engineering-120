@@ -16,6 +16,8 @@ One line solution using
 
 ## [Queue](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.queue-1?view=net-6.0)
 - FIFO
+
+Methods
 - .Dequeue()
 - .TryDequeue()
 - .Enqueue()
@@ -51,11 +53,11 @@ Console.WriteLine(serve);
 - LIFO
 - ex.  undo on Word
 
-.Push()
-.Pop()
-.Peek()
-.ToArray()
-
+Methods
+- .Push()
+- .Pop()
+- .Peek()
+- .ToArray()
 
 
 ```csharp
