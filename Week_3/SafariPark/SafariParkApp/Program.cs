@@ -188,6 +188,123 @@ namespace SafariParkApp
             //}
             #endregion
 
+            // make some people
+            var helen = new Person { FirstName = "Helen", LastName = "Troy", Age = 22 };
+            var will = new Hunter { FirstName = "William", LastName = "Shakespeare", Age = 22 };
+            List<Person> thePeople = new List<Person> { helen, will };
+            Console.WriteLine("List of people");
+            foreach (var person in thePeople)
+            {
+                Console.WriteLine(person);
+            }
+            Console.WriteLine();
+
+            #region Queue
+            //FIFO
+            var myQueue = new Queue<Person>();
+            myQueue.Enqueue(helen);
+            myQueue.Enqueue(will);
+            myQueue.Enqueue(new Person("David"));
+
+            Console.WriteLine("Queue\n");
+            foreach(var person in myQueue)
+            {
+                Console.WriteLine(person);
+            }   
+            var first = myQueue.Peek();
+            Console.WriteLine(first);
+
+            var serve = myQueue.Dequeue();
+            Console.WriteLine(serve);
+            #endregion
+
+            #region Stack
+            //LIFO
+            var stack = new Stack<int>();
+            int[] nums = new int[] { 1, 2, 3, 4, 5, 6 };
+            int[] numsReversed = new int[nums.Length];
+
+            foreach(var num in nums)
+            {
+                stack.Push(num);
+            }
+
+            for (int i = 0; i < numsReversed.Length; i++)
+            {
+                stackReversed[i] = stack.Pop();
+            }
+            #endregion
+
+            #region HashSet
+            var peopleSet = new HashSet<Person>
+            {
+                helen, new Person("Dylan"), new Person("Thomas")
+            };
+            Console.WriteLine("Hash Set");
+            foreach (var entry in peopleSet)
+            {
+                Console.WriteLine(entry);
+            }
+
+            var successMartin = peopleSet.Add(new Person() { FirstName = "Martin", LastName = "Beard", Age = 21 });
+            var successHelen = peopleSet.Add(new Person() { FirstName = "Helen ", LastName = "Troy", Age = 22 });
+
+            var morePeople = new HashSet<Person> {​ new Person("Cathy"), new Person("Jasmine"), new Person("Thomas") }​;
+
+            peopleSet.IntersectWith(morePeople);
+
+            var vehicleSet = new HashSet<Vehicle>
+            {
+                new Vehicle() { NumPassengers = 3, Speed = 2 },
+                new Vehicle() { Speed = 100}
+            };
+
+            var success = vehicleSet.Add(new Vehicle() { Speed = 100 });
+            #endregion
+
+            #region Dictionaries
+            var personDict = new Dictionary<string, Person>
+            {
+                { "helen", helen },
+                { "tom", new Person("Thomas") }
+            };
+
+            var p = personDict["tom"];
+            personDict.TryAdd("helen", new Person("Tester"));
+            personDict.Add("bill", will);
+
+            string input = "The cat in the hat comes back";
+            input = input.Trim().ToLower();
+            var countDict = new Dictionary<char, int>();
+
+            foreach (char c in input)
+            {
+                if (countDict.ContainsKey(c))
+                {
+                    countDict[c]++;
+                }
+                else
+                {
+                    countDict.Add(c, 1);
+                }
+            }
+            Console.WriteLine("\nDictionary Problem");
+            foreach (var entry in countDict)
+            {
+                Console.WriteLine(entry);
+            }
+
+            foreach (var key in countDict.Keys)
+            {
+                Console.WriteLine($"Key {key}, ");
+            }
+            Console.WriteLine();
+            foreach (var value in countDict.Values)
+            {
+                Console.WriteLine($"Value {value}, ");
+            }
+
+            #endregion
         }
 
         public static void SpartaWrite(Object obj)

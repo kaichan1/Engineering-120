@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eCGqQQ8ezJJstd6Q6OaKGTQI4jelgi8oR6zfVn9XpwpOhEV6+ehG7PXzFuZ2UKKLP03NfAwgKkUpqQR+KrdKDw==",
+  "dgSpecHash": "3yotibosRvfgE6UhHG+o5aGbd1jzsiRY8VtujoeEeKc37wTza1GK3yTooVHv4qbI7qgBGQh+Nhe39JiuB/pc8g==",
   "success": true,
   "projectFilePath": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_2\\CodeKatas\\CodeKatas\\CodeKatas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\punka\\.nuget\\packages\\coverlet.msbuild\\3.1.2\\coverlet.msbuild.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
