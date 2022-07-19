@@ -11,7 +11,7 @@ The goal of this repositary is to record and share what I have learned as well a
 
 [Week 3 - OOP](Week_3/README.md)
 
-[Week 4 - Advanced OOP & Data](Week_4/README.md)
+[Week 4 - Advanced C# & Data](Week_4/README.md)
 
 [Week 5 - ISTQB](Week_5/README.md)
 
