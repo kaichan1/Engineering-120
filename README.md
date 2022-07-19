@@ -1,7 +1,7 @@
 # Engineering-120
 
 ## Description
-The goal of this repositary is to record and share what I have learned as well as all the projects that I have done in the Sparta Global C# SDET course. Hope you enjoy it!
+The goal of this repositary is to record and share what I have learned as well as all the projects that I have done in the Sparta Global C# SDET course.
 
 ---
 
