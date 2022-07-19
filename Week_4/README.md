@@ -4,9 +4,9 @@
 
 ## Contents
 
-[Day 1](Day_1/README.md)
+[Day 1 - Advanced Unit Testing & TDD](Day_1/README.md)
 
-[Day 2](Day_2/README.md)
+[Day 2 - Using GitHub Collaboratively](Day_2/README.md)
 
 [Day 3](Day_3/README.md)
 

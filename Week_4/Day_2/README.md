@@ -7,7 +7,7 @@
 ---
 Date: 7/19
 
-## GitHub Collaborations
+## Using GitHub Collaboratively
 
 ![pic1](pic1.png)
 
