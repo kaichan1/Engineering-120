@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Djk4FT4xiqUXOPlA6qleOnaTTexrsuzlZuo23wHzrgT5c2I7yai9A57UO1zT7owtXlTNq1W11hjtCNabnxpaA==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_4\\Day_1\\FizzBuzz\\FizzBuzzApp\\FizzBuzzApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\punka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\punka\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\punka\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\punka\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

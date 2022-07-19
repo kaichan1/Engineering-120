@@ -5,23 +5,43 @@ namespace AdvancedNUnit
 {
     public class CalculatorTests
     {
+        [OneTimeSetUp]
+        public void OneTimeSetUp()
+        {
+            //test one object in many methods
+        }
         [SetUp]
         public void Setup() { }
 
-        [Test]
-        public void Add_Always_ReturnsExpectedResult()
+        [TestCaseSource("AddCases")]
+        [Category("Happy Path")]
+        public void Add_Always_ReturnsExpectedResult(int x, int y, int expResult)
         {
             // Arrange
-            var expectedResult = 6;
-            var subject = new Calculator { Num1 = 2, Num2 = 4 };
+            //var expectedResult = 6;
+            var subject = new Calculator { Num1 = x, Num2 = y };
             // Act
             var result = subject.Add();
             // Assert
             //constraint model
-            Assert.That(result, Is.EqualTo(expectedResult), "optional failure message");
+            Assert.That(result, Is.EqualTo(expResult), "optional failure message");
 
             //classical model
             //Assert.AreEqual(expectedResult, result, "Optional failure message");
+        }
+
+        private static object[] AddCases =
+        {
+            new int[] {2, 4, 6},
+            new int[] {-2, 4, 2}
+        };
+
+        [Test]
+        [Category("Error Path")]
+        public void GivenZero_Divide_ThrowsException()
+        {
+            var subject = new Calculator { Num1 = 2, Num2 = 0 };
+            Assert.That(() => subject.Divide(), Throws.TypeOf<System.ArgumentException>().With.Message.Contain("Can't divide by zero"));
         }
 
         [TestCase(6, 7)]
@@ -67,7 +87,5 @@ namespace AdvancedNUnit
             Assert.That(nums, Is.All.InRange(1, 10));
             Assert.That(nums, Has.Exactly(2).InRange(1, 4));
         }
-
     }
-    
 }
