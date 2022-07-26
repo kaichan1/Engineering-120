@@ -1,0 +1,15 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\bin\Debug\net6.0\BigO.exe
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\bin\Debug\net6.0\BigO.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\bin\Debug\net6.0\BigO.runtimeconfig.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\bin\Debug\net6.0\BigO.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\bin\Debug\net6.0\BigO.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\obj\Debug\net6.0\BigO.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\obj\Debug\net6.0\BigO.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\obj\Debug\net6.0\BigO.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\obj\Debug\net6.0\BigO.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\obj\Debug\net6.0\BigO.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\obj\Debug\net6.0\BigO.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\obj\Debug\net6.0\refint\BigO.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\obj\Debug\net6.0\BigO.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\obj\Debug\net6.0\BigO.genruntimeconfig.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_3\BigO\BigO\obj\Debug\net6.0\ref\BigO.dll

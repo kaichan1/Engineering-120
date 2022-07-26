@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingStreamingEncoding", "LoggingStreamingEncoding\LoggingStreamingEncoding.csproj", "{1487096A-AEC0-4BAA-8E80-2427DE66D2A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1487096A-AEC0-4BAA-8E80-2427DE66D2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1487096A-AEC0-4BAA-8E80-2427DE66D2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1487096A-AEC0-4BAA-8E80-2427DE66D2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1487096A-AEC0-4BAA-8E80-2427DE66D2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5750068-2C15-41D3-800B-BE2156991BA3}
+	EndGlobalSection
+EndGlobal

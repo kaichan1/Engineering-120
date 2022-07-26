@@ -1,0 +1,15 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\bin\Debug\net6.0\ClassesApp.exe
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\bin\Debug\net6.0\ClassesApp.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\bin\Debug\net6.0\ClassesApp.runtimeconfig.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\bin\Debug\net6.0\ClassesApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\bin\Debug\net6.0\ClassesApp.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\obj\Debug\net6.0\ClassesApp.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\obj\Debug\net6.0\ClassesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\obj\Debug\net6.0\ClassesApp.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\obj\Debug\net6.0\ClassesApp.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\obj\Debug\net6.0\ClassesApp.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\obj\Debug\net6.0\ClassesApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\obj\Debug\net6.0\refint\ClassesApp.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\obj\Debug\net6.0\ClassesApp.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\obj\Debug\net6.0\ClassesApp.genruntimeconfig.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_4\SafariParkCodeSmells_Starter\SafariParkCodeSmells_Starter\SafariPark\obj\Debug\net6.0\ref\ClassesApp.dll

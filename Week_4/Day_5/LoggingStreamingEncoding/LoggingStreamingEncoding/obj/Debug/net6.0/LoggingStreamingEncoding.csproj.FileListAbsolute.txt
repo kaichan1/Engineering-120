@@ -1,0 +1,15 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\bin\Debug\net6.0\LoggingStreamingEncoding.exe
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\bin\Debug\net6.0\LoggingStreamingEncoding.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\bin\Debug\net6.0\LoggingStreamingEncoding.runtimeconfig.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\bin\Debug\net6.0\LoggingStreamingEncoding.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\bin\Debug\net6.0\LoggingStreamingEncoding.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\obj\Debug\net6.0\LoggingStreamingEncoding.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\obj\Debug\net6.0\LoggingStreamingEncoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\obj\Debug\net6.0\LoggingStreamingEncoding.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\obj\Debug\net6.0\LoggingStreamingEncoding.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\obj\Debug\net6.0\LoggingStreamingEncoding.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\obj\Debug\net6.0\LoggingStreamingEncoding.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\obj\Debug\net6.0\refint\LoggingStreamingEncoding.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\obj\Debug\net6.0\LoggingStreamingEncoding.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\obj\Debug\net6.0\LoggingStreamingEncoding.genruntimeconfig.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_4\Day_5\LoggingStreamingEncoding\LoggingStreamingEncoding\obj\Debug\net6.0\ref\LoggingStreamingEncoding.dll

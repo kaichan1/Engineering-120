@@ -4,9 +4,9 @@
 
 ## Contents
 
-[Day 1](Day_1/README.md)
+[Day 1 - SQL](Day_1/README.md)
 
-[Day 2](Day_2/README.md)
+[Day 2 - Fundamentals of Testing & Life Cycles](Day_2/README.md)
 
 [Day 3](Day_3/README.md)
 

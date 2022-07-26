@@ -1,0 +1,8 @@
+{
+	"empire":"eukaryota",
+	"kingdom":"animalia",
+	"phylum":"chordata",
+	"class":"mammalia",
+	"order":[{"primate":["Neaderthals","human","cybot"]},"carnivora","chiroptera"],
+	"phone":{"home":911,"work":999}
+}
