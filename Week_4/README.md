@@ -8,8 +8,8 @@
 
 [Day 2 - Using GitHub Collaboratively](Day_2/README.md)
 
-[Day 3](Day_3/README.md)
+[Day 3 - Big O Notation & Recursion](Day_3/README.md)
 
-[Day 4](Day_4/README.md)
+[Day 4 - Refactoring & Design Patterns](Day_4/README.md)
 
-[Day 5](Day_5/README.md)
+[Day 5 - XML, JSON, Logging, Encoding & Streaming](Day_5/README.md)
