@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4D+mxiiOu5wY/PUN/cqAHFi/hbG6by2+y1kUWwbTuGYD0YRWX2A1aimipmPDx9xJM1Cj9Qqxn+314z/OipLO/Q==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\Day_2\\SerialisationRefactored\\SerialisationApp\\SerialisationApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\punka\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

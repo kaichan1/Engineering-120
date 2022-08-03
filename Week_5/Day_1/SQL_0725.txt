@@ -1,0 +1,42 @@
+New query
+--Find out all customers who's Contact Name begining with S
+--SP_HELP Customers
+
+SELECT ContactName,
+	CompanyName,
+	ContactTitle
+FROM Customers
+WHERE ContactName LIKE '[AEIOU]%'
+
+SELECT * FROM Products
+--Category ID
+
+SELECT SUM(UnitsInStock) AS "Units in Stock",
+	CategoryID,
+	SupplierID
+FROM Products
+GROUP BY CategoryID, SupplierID
+
+--JOIN
+--SELECT * FROM EmployeeTerritories
+SELECT * FROM Customers
+SELECT * FROM Orders;
+--Which customer made which order
+SELECT c.CustomerID,
+	c.ContactName,
+	o.OrderID
+FROM Customers c
+INNER JOIN Orders o
+ON c.CustomerID = o.CustomerID;
+--table alias
+SELECT c.CustomerID,
+	c.ContactName,
+	COUNT(*) AS "Total Orders"
+FROM Customers c
+INNER JOIN Orders o
+ON c.CustomerID = o.CustomerID
+GROUP BY c.CustomerID, c.ContactName
+
+
+--JOIN with Aggregate
+

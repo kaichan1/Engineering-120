@@ -1,0 +1,12 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\bin\Debug\net6.0\LambdaLab_Lib.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\bin\Debug\net6.0\LambdaLab_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\bin\Debug\net6.0\LambdaLab_Lib.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\refint\LambdaLab_Lib.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\LambdaLab_Lib.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\LambdaLab_StarterCode\LambdaLab_StarterCode\LambdaLab_Lib\obj\Debug\net6.0\ref\LambdaLab_Lib.dll

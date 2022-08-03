@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1b70Zan+mcbPVv+vLKNoaHd8oAesBi/+SmqgCo/oBXSpEFGA7Xoxe01r0JkRPet3dDjYExm5xwnqjshbPoRLGg==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\Day_3\\APIApp\\APIClientApp\\APIClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\punka\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\punka\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

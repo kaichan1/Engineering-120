@@ -1,0 +1,24 @@
+{
+    "Subject": null,
+    "Title": null,
+    "StartDate": {
+        "Year": 2022,
+        "Month": 8,
+        "Day": 3,
+        "DayOfWeek": 3,
+        "DayOfYear": 215,
+        "DayNumber": 738369
+    },
+    "Trainees": [
+        {
+            "FirstName": "Dylan",
+            "LastName": "Cole",
+            "SpartaNo": 100
+        },
+        {
+            "FirstName": "Tom",
+            "LastName": "Wolstencroft",
+            "SpartaNo": 101
+        }
+    ]
+}

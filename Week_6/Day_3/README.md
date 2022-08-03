@@ -1,11 +1,11 @@
-# Week 1 - ? - Day ?
+# Week 6 - Advanced C# & API Testing - Day ?
 
-[Back](/Week_1)
+[Back](/Week_6)
 
 [Main Menu](/README.md)
 
 ---
-Date: 7/?
+Date: 8/?
 
 ## Contents
 

@@ -1,0 +1,15 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\bin\Debug\net6.0\AysncCake.exe
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\bin\Debug\net6.0\AysncCake.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\bin\Debug\net6.0\AysncCake.runtimeconfig.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\bin\Debug\net6.0\AysncCake.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\bin\Debug\net6.0\AysncCake.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\refint\AysncCake.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\AysncCake.genruntimeconfig.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_2\AysncCakeStarter\AysncCakeStarter\obj\Debug\net6.0\ref\AysncCake.dll

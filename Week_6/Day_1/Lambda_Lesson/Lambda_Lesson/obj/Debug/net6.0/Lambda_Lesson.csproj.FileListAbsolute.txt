@@ -1,0 +1,15 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\bin\Debug\net6.0\Lambda_Lesson.exe
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\bin\Debug\net6.0\Lambda_Lesson.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\bin\Debug\net6.0\Lambda_Lesson.runtimeconfig.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\bin\Debug\net6.0\Lambda_Lesson.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\bin\Debug\net6.0\Lambda_Lesson.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\obj\Debug\net6.0\Lambda_Lesson.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\obj\Debug\net6.0\Lambda_Lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\obj\Debug\net6.0\Lambda_Lesson.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\obj\Debug\net6.0\Lambda_Lesson.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\obj\Debug\net6.0\Lambda_Lesson.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\obj\Debug\net6.0\Lambda_Lesson.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\obj\Debug\net6.0\refint\Lambda_Lesson.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\obj\Debug\net6.0\Lambda_Lesson.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\obj\Debug\net6.0\Lambda_Lesson.genruntimeconfig.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_6\Day_1\Lambda_Lesson\Lambda_Lesson\obj\Debug\net6.0\ref\Lambda_Lesson.dll
