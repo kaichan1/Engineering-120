@@ -15,7 +15,7 @@ The goal of this repositary is to record and share what I have learned as well a
 
 [Week 5 - ISTQB](Week_5/README.md)
 
-[Week 6 - Advanced C# & API Testing](Week_6/README.md)
+[Week 6 - API & Advanced Testing](Week_6/README.md)
 
 [Week 7 - Web Testing](Week_7/README.md)
 

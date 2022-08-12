@@ -1,0 +1,30 @@
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\bin\Debug\net6.0\NorthwindBusiness.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\bin\Debug\net6.0\NorthwindBusiness.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\bin\Debug\net6.0\NorthwindBusiness.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\bin\Debug\net6.0\NorthwindData.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\bin\Debug\net6.0\NorthwindData.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.csproj.CopyComplete
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\refint\NorthwindBusiness.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter\NorthwindBusiness\obj\Debug\net6.0\ref\NorthwindBusiness.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\bin\Debug\net6.0\NorthwindBusiness.deps.json
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\bin\Debug\net6.0\NorthwindBusiness.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\bin\Debug\net6.0\NorthwindBusiness.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\bin\Debug\net6.0\NorthwindData.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\bin\Debug\net6.0\NorthwindData.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.csproj.AssemblyReference.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.AssemblyInfoInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.AssemblyInfo.cs
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.csproj.CopyComplete
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\obj\Debug\net6.0\refint\NorthwindBusiness.dll
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\obj\Debug\net6.0\NorthwindBusiness.pdb
+D:\OneDrive\Data\Career\Sparta Global\Engineering-120\Week_7\Day_1\CustomerApp_MoqStarter - homework\NorthwindBusiness\obj\Debug\net6.0\ref\NorthwindBusiness.dll

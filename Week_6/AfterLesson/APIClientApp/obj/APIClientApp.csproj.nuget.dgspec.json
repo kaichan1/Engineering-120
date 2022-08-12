@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\AfterLesson\\APIClientApp\\APIClientApp.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\AfterLesson\\APIClientApp\\APIClientApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\AfterLesson\\APIClientApp\\APIClientApp.csproj",
+        "projectName": "APIClientApp",
+        "projectPath": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\AfterLesson\\APIClientApp\\APIClientApp.csproj",
+        "packagesPath": "C:\\Users\\punka\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\AfterLesson\\APIClientApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\punka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

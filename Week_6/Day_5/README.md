@@ -1,4 +1,4 @@
-# Week 6 - Advanced C# & API Testing - Day ?
+# Week 6 - API & Advanced Testing - Day ?
 
 [Back](/Week_6)
 

@@ -420,11 +420,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\Day_3\\AfterLessonOriginal\\AfterLesson\\APIClientApp\\APIClientApp.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\Day_3\\AfterLesson\\AfterLesson\\APIClientApp\\APIClientApp.csproj",
       "projectName": "APIClientApp",
-      "projectPath": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\Day_3\\AfterLessonOriginal\\AfterLesson\\APIClientApp\\APIClientApp.csproj",
+      "projectPath": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\Day_3\\AfterLesson\\AfterLesson\\APIClientApp\\APIClientApp.csproj",
       "packagesPath": "C:\\Users\\punka\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\Day_3\\AfterLessonOriginal\\AfterLesson\\APIClientApp\\obj\\",
+      "outputPath": "D:\\OneDrive\\Data\\Career\\Sparta Global\\Engineering-120\\Week_6\\Day_3\\AfterLesson\\AfterLesson\\APIClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\punka\\AppData\\Roaming\\NuGet\\NuGet.Config",

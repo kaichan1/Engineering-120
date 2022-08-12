@@ -1,4 +1,4 @@
-# Week 6 - Advanced C# & API Testing
+# Week 6 - API & Advanced Testing
 
 [Back](/README.md)
 

@@ -1,0 +1,12 @@
+body{
+    font-family: 'Poiret One', cursive;
+    margin: 10px;
+}
+
+h1{
+    color: darkgoldenrod;
+}
+
+nav#mainNav{
+    background-color: beige;
+}
